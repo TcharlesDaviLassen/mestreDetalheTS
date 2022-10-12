@@ -1,4 +1,4 @@
-# Sistema de eleições
+# mestreDetalheTS
 
 Esse repositório contém a correção de um exercício construído em aula
 
@@ -50,4 +50,4 @@ Os dados da votação devem ser salvos no Banco de Dados. A estrutura dessa vota
 - Utilizar TypeScript
 - Implementar a API
 - Publicar na sua VM
-# mestreDetalheTS
+
